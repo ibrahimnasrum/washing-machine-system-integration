@@ -118,3 +118,10 @@ Edit:
   - electrical isolation for relay loads
   - fuse + proper grounding
   - emergency stop logic
+
+## Group Members (Group C)
+
+1. Ibrahim Bin Nasrum (2116467)
+2. KHAN TOQI TAHMID (2025209)
+3. Almasri Suhail Jihad (2128771)
+4. Abdallah Mahamat Abakar Maeyd (2117777)
